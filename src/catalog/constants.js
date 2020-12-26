@@ -1,4 +1,4 @@
-export const DATA_ENTRIES = 5000;
+export const DATA_ENTRIES = 2000;
 export const ENTRIES_PER_PAGE = 100;
 export const DEFAULT_VALUE = "select";
 
